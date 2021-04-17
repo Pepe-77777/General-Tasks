@@ -1,4 +1,6 @@
 # General Tasks
 Deixe suas tarefas mais rapidas!
 
-Este app ainda esta em desenvolvimento, provavemlente ele vai ser bem parecido com o [Search Bat](https://github.com/Pepe-77777/searchbat) Bom, é isso ;-; 😎
+- Bom para instalar vai requerir o [GIT](https://git-scm.com/downloads)
+
+Este app ainda esta em desenvolvimento, enfim o link para download do installer está aqui: [Download]() é isso, depois que terminar adiciono mais coisas!
