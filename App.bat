@@ -10,6 +10,7 @@ echo 1- Limpar lixeira
 echo 2- Adicionar tarefas
 echo 3- Remover tarefas
 echo 4- Abrir tarefas
+echo 5- Creditos
 echo -------------------
 echo.
 set /p op=Escolha a tarefa: 
@@ -17,6 +18,12 @@ if %op%==1 goto lixeira
 if %op%==2 goto editar
 if %op%==3 goto tarefas
 if %op%==4 goto abrir
+if %op%==5 goto creditos
+
+:creditos
+cls
+echo Criador: Pepê (Pepe-77777)
+echo Ajudante: REMAKI
 
 :lixeira
 rd /s /q %systemdrive%\$Recycle.bin
